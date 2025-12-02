@@ -1,164 +1,164 @@
 /* 上侧 */
 .ariaLabel[id="barBack"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[id="barForward"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[id="barPlugins"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[id="barCommand"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[id="barSearch"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[id="barZoom"] {
-  display: none !important;
+	display: none !important;
 }
 
 .div[class="protyle-breadcrumb__bar"] {
-  display: none !important;
+	display: none !important;
 }
 
 .protyle-preview__action button[class="b3-tooltips b3-tooltips__w"] {
-  display: none !important;
+	display: none !important;
 }
 
 /* 左侧 */
 .ariaLabel[data-type="inbox"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[data-type="bookmark"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[data-type="tag"] {
-  display: none !important;
+	display: none !important;
 }
 
 .ariaLabel[aria-label="取消钉住"] {
-  display: none !important;
+	display: none !important;
 }
 
 /* 下侧 */
 .ariaLabel[id="statusHelp"] {
-  display: none !important;
+	display: none !important;
 }
 
 /* 右侧 */
 .dock[id="dockRight"] {
-  display: none !important;
+	display: none !important;
 }
 
 /* 已关闭笔记本 */
 .b3-list.fn__flex-column {
-  display: none !important;
+	display: none !important;
 }
 
 .fn__flex .layout-tab-bar {
-  display: none !important;
+	display: none !important;
 }
 
 /* 左上角菜单 */
 .b3-menu__item[data-id="panels"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="layout"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="dailyNote"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="riffCard"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="recentDocs"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="lockScreen"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="userGuide"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="feedback"] {
-  display: none !important;
+	display: none !important;
 }
 
 /* 右侧块滚动条 */
 .protyle-scroll {
-  display: none !important;
+	display: none !important;
 }
 
 /* 右键菜单 */
 
 .b3-menu__item[data-id="ai"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="addToDatabase"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__separator[data-id="separator_2"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="enter"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="enterBack"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="insertBefore"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="insertAfter"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="jumpToParentNext"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="jumpToParentPrev"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="jumpToParent"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__separator[data-id="separator_4"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="wechatReminder"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__separator[data-id="b3-menu__separator"] {
-  display: none !important;
+	display: none !important;
 }
 
 .b3-menu__item[data-id="quickMakeCard"] {
-  display: none !important;
+	display: none !important;
 }
