@@ -1,0 +1,10 @@
+/* 滚动条样式很不清楚 */
+
+:root {
+	--b3-scroll-color: var(--b3-theme-secondary);
+}
+
+::-webkit-scrollbar {
+	width: 15px;
+	height: 10px;
+}
