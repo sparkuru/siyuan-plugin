@@ -1,4 +1,4 @@
-# img-firefly
+# firefly
 
 upload images to picbed like typora + picgo does.
 
@@ -9,8 +9,8 @@ two way to use:
 
 ## usage
 
-require picgo installed.
+require [PicGo](https://github.com/Molunerfinn/PicGo) installed. PicGo is licensed under MIT License.
 
 linux: install picgo via `npm install -g picgo`
 
-or self implement a picgo like backend, configure the backend address and request params in `config.json`.
+or self implement a picgo-like backend, configure the backend endpoint and request params in `config.json`.
